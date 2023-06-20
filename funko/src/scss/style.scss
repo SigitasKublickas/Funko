@@ -1,4 +1,9 @@
 @import "./components/header.scss";
+
+.app {
+  letter-spacing: 1px;
+  font-weight: 500;
+}
 .center {
   display: flex;
   justify-content: center;
